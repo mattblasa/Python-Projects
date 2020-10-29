@@ -1,0 +1,45 @@
+Please Enter the Student's Name:  Kristen Bellis
+
+Please Enter a Grade Category (DONE):   Daily Grades
+Please Enter a Grade Category (DONE):   Quizzes
+Please Enter a Grade Category (DONE):   Tests
+Please Enter a Grade Category (DONE):   DONE
+
+Please Enter the % weight for 'Daily Grades':   19
+Please Enter the % weight for 'Quizzes':        30
+Please Enter the % weight for 'Tests':          50
+
+The Weights Must Add Up To 100% - Please Re-enter.
+Please Enter the % weight for 'Daily Grades':   20
+Please Enter the % weight for 'Quizzes':        30
+Please Enter the % weight for 'Tests':          50
+
+R. See the Report Card
+Q. Quit
+1. Enter: Daily Grades
+2. Enter: Quizzes
+3. Enter: Tests
+Choose Option:                  1
+Please Enter Assignment Name:   Week 1 Homework
+What Grade Was Earned:          90
+
+
+R. See the Report Card
+Q. Quit
+1. Enter: Daily Grades
+2. Enter: Quizzes
+3. Enter: Tests
+Choose Option:                  2
+Please Enter Assignment Name:   Python Syntax
+What Grade Was Earned:          85
+
+. . . .
+
+Choose an Option:   R
+  <prints Report Card>
+  
+. . . .
+  
+Choose an Option:   Q
+  <prints the Report Card>
+  <Ends Program>
