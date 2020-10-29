@@ -1,0 +1,50 @@
+Student: Kristen A. Bellis
+
+Daily Grades (20%)
+  Week 1 Homework:         90
+  Week 2 Homework:        100
+  Take Home Essay:         95
+  
+Quizzes  (30%)
+  Python Syntax:            85
+  Classes & Test Cases:    100
+  
+Tests  (50%)
+  Final Exam:               95
+  
+Final Course Grade:         94  (A)
+
+
+ ((285/3) * .2) + ((185/2) * .3)) + (95 * .5)
+(     19      +        27.75  +       47.5) = 94.25%
+
+
+
+Student: Kristy L. Bell
+
+Homework (50%)
+  Assignment 1:         90
+  Assignment 2:         71
+  Assignment 3:         62
+  Assignment 4:         57
+  Assignment 5:         73
+  
+Projects  (10%)
+  Project 1:            85
+  Project 2:            85
+  Project 3:            85
+  
+Final Exam  (40%)
+  Final Exam:           70
+  
+Final Course Grade:         72  (C)
+
+
+ ((353/5) * .5) + ((255/3) * .1)) + (75 * .4)
+(     35.3      +       8.5   +       28) = 71.8%
+
+
+
+
+
+
